@@ -145,6 +145,8 @@ public class ComputerPage extends Utility {
     public void clickOnCheckOutAsGuestTab (){
         clickOnElement(clickOnCheckoutAsGuest);
     }
+
+    //Step1
     public void clickOnComputerMenu (){
         clickOnElement(computerMenu);
     }
